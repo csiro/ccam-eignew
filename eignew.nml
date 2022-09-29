@@ -1,0 +1,6 @@
+ &prepnml
+ tbar=300.   lapsbot=0 isoth=300  nsig=50 sight=0.0024 
+ dt=0.  eps=0.
+ &end
+ 
+  tbar=300.   lapsbot=0  isoth=300 nsig=50 sight=0.0044
